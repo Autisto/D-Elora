@@ -1,20 +1,12 @@
 import discord
-from discord.ext.commands import Bot
-from discord.ext import commands
-import requests
 
-bot = Bot("*") 
+
 client = discord.Client()
 
 @client.event
 async def on_ready():
     print('The Autist Is Here')
 
-@bot.command()
-async def hello(ctx, args):
-    print('ctx.author.name')
-    print('ctx.message')
-    print('ctx.guild')
 
 @client.event
 async def on_message(message):

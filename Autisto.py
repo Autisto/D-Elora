@@ -49,6 +49,12 @@ async def weeb(ctx):
     print(ctx.message)
     print(ctx.guild)
 
+@client.command()
+async def anime(ctx):
+    print(ctx.author)
+    print(ctx.message)
+    print(ctx.guild)
+
 
 @client.command()
 async def server(ctx):

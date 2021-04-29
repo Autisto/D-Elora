@@ -2,9 +2,13 @@ import discord
 from discord.ext import commands
 import youtube_dl
 import os
+import json
 
 client = commands.Bot(command_prefix="*")
 
+with open("./config.json", "r") as configjsonFile:
+    configData = json.load(configjsonFile)
+    TOKEN = configData["DISCORD_TOKEN"]
 
 @client.event
 async def on_ready():
@@ -144,4 +148,4 @@ async def stop(ctx):
     voice = discord.utils.get(client.voice_clients, guild=ctx.guild)
     voice.stop()
 
-client.run("NjkyNzIwODg0NzI4NzI1NTE1.XnyomQ.fiRFRgnyelcih5Q7o7Q3sIqOQmo")
+client.run(TOKEN)

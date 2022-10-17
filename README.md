@@ -38,7 +38,7 @@ Discord Version Of Elora
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Elora][product-screenshot]](https://github.com/Autisto/D-Elora)
+[![Elora][product-screenshot]](https://github.com/Autisto)
 
 `Maker`, `Project-Title`, `Gmail`, `Description`
 

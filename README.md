@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
@@ -32,8 +31,6 @@ Discord Version Of Elora
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -43,21 +40,13 @@ Discord Version Of Elora
 
 `Sliganyth`, `D-Elora`, `autistjes@gmail.com`, `Discord Version, Of Elora`
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ### Built With
 
 * [![Python][python]][py-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Installation
 
 Contact Owner
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -69,15 +58,9 @@ Contact Owner
 
 See The [Project List](https://github.com/orgs/Autisto/projects/4) To Know All The Features That Are WIP, Done Or Planned
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## License
 
 Distributed under MIT License See <a href="https://github.com/Autisto/D-Elora/blob/main/LICENSE.md" target="_blank">License.md</a> for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## Contact
 
@@ -87,11 +70,6 @@ Project Link: [https://github.com/Autisto/D-Elora](https://github.com/Autisto/El
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/Autisto/D-Elora.svg?style=for-the-badge
-[contributors-url]: https://github.com/Autisto/D-Elora/blob/main/CONTRIBUTORS.md
 [issues-shield]: https://img.shields.io/github/issues/Autisto/D-Elora.svg?style=for-the-badge
 [issues-url]: https://github.com/Autisto/D-Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/D-Elora.svg?style=for-the-badge

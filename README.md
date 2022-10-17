@@ -104,5 +104,5 @@ Project Link: [https://github.com/Autisto/D-Elora](https://github.com/Autisto/El
 [license-shield]: https://img.shields.io/github/license/Autisto/D-Elora.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/D-Elora/blob/main/LICENSE.md
 [product-screenshot]: https://raw.githubusercontent.com/Autisto/D-Elora/main/Images/screenshot.png
-[Python]: https://img.shields.io/github/pipenv/locked/python-version/:Autisto/:D-Elora
+[Python]: https://img.shields.io/github/python-version/:Autisto/:D-Elora
 [py-url]: https://www.python.org

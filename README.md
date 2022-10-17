@@ -60,7 +60,7 @@ See The [Project List](https://github.com/orgs/Autisto/projects/4) To Know All T
 
 ## License
 
-Distributed under MIT License See <a href="https://github.com/Autisto/D-Elora/blob/main/LICENSE.md" target="_blank">License.md</a> for more information.
+Distributed under MIT License See <a href="https://github.com/Autisto/D-Elora/blob/main/LICENSE.md" target="_blank">License</a> for more information.
 
 ## Contact
 

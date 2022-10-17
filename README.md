@@ -103,6 +103,6 @@ Project Link: [https://github.com/Autisto/D-Elora](https://github.com/Autisto/El
 [issues-url]: https://github.com/Autisto/D-Elora/issues
 [license-shield]: https://img.shields.io/github/license/Autisto/D-Elora.svg?style=for-the-badge
 [license-url]: https://github.com/Autisto/D-Elora/blob/main/LICENSE.md
-[product-screenshot]: https://raw.githubusercontent.com/Autisto/D-Elora/main/Images/screenshot.png
+[product-screenshot]: https://github.com/Autisto/D-Elora/main/Images/screenshot.png
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [py-url]: https://www.python.org

@@ -27,7 +27,6 @@ Discord Version Of Elora
       <a href="#getting-started">Installation</a>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -69,12 +68,6 @@ Contact Owner
 - [ ] Github Intergration
 
 See The [Project List](https://github.com/orgs/Autisto/projects/4) To Know All The Features That Are WIP, Done Or Planned
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contributors
-
-All Of The Contributors Are Found In <a href="https://github.com/Autisto/D-Elora/blob/main/CONTRIBUTORS.md" target="_blank">Contributors.md</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
